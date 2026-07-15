@@ -1,6 +1,6 @@
 # Stock Research Agent
 
-🔗 Live demo: stock-research-agent-1f9e.onrender.com
+🔗 Live demo: https://stock-research-agent-1f9e.onrender.com/
 (Hosted on Render's free tier — the app may take ~50 seconds to wake up if it hasn't been visited recently.)
 
 A web app that takes a stock ticker, pulls real financial data, and generates an AI-powered analysis with a bullish/bearish/mixed stance — built from scratch as a learning project.
