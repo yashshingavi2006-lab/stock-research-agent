@@ -59,5 +59,5 @@ User enters ticker → Flask (/analyze)
 ## Author
 
 **Yash Shingavi**
-- GitHub: []
+- GitHub: [https://github.com/yashshingavi2006-lab]
 - LinkedIn: [https://www.linkedin.com/in/yash-shingavi-18213937b/]
